@@ -1,0 +1,23 @@
+/* =============================================
+   APP LAYOUT
+   ============================================= */
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+}
+
+/* Page wrapper background */
+.page-wrapper {
+  background: linear-gradient(
+    180deg,
+    var(--color-cream) 0%,
+    rgba(240, 224, 196, 0.6) 50%,
+    var(--color-cream) 100%
+  );
+  min-height: calc(100vh - 80px);
+}
