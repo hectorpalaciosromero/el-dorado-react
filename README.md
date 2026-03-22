@@ -132,14 +132,12 @@ Para correr este proyecto en local y admirar la magia:
 
 ---
 
-## 👨‍💻 Acerca del Desarrollo
+## 👨‍💻 Autor
 
-Implementado con un estándar **Senior** de Ingeniería de Software Web.
+**Hector Palacios**  
+*Software Engineer | Java Full Stack Developer*  
 
-- **Diseño, Refactorización de Arquitectura Codebase y Desarrollo de Interfaz:** Hector Palacios
-- **Año:** 2024
+Desarrollador apasionado por construir soluciones tecnológicas robustas, escalables y orientadas al negocio. Si buscas talento para tu equipo de ingeniería, ¡hablemos!
 
-<br/>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" height="35" /> <i>¡Gracias por visitar el repositorio de EL DORADO! Disfruta la experiencia.</i>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hectorpalaciosromero)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hectorpalaciosromero)
