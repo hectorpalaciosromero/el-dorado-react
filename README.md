@@ -135,7 +135,7 @@ Para correr este proyecto en local y admirar la magia:
 ## 👨‍💻 Autor
 
 **Hector Palacios**  
-*Software Engineer | Java Full Stack Developer*  
+*Software Engineer | Full Stack Developer*  
 
 Desarrollador apasionado por construir soluciones tecnológicas robustas, escalables y orientadas al negocio. Si buscas talento para tu equipo de ingeniería, ¡hablemos!
 
